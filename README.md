@@ -28,8 +28,8 @@ console.log(isBalanced(c3)); //output: "YES"
 ```
 
 ### Complexity Analysis
-**- Time Complexity :**
-``` The time complexity of the _isBalanced_ function is O(n), where n is the length of the string. This is because we iterate over each character in the string once, performing   constant-time operations (push and pop) for each character ```
+- Time Complexity :
+``` The time complexity of the ``` _isBalanced_ ``` function is O(n), where n is the length of the string. This is because we iterate over each character in the string once, performing   constant-time operations (push and pop) for each character ```
 
-**- Space Complexity :**
-``` The space complexity of the _isBalanced_ function is O(n) in the worst case. This occurs when all characters in the string are opening brackets, which will all be stored in the stack. The additional space used by the map for matching brackets is constant, O(1) ```
+- Space Complexity :
+``` The space complexity of the ``` _isBalanced_ ``` function is O(n) in the worst case. This occurs when all characters in the string are opening brackets, which will all be stored in the stack. The additional space used by the map for matching brackets is constant, O(1) ```
