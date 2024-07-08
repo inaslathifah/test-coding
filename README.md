@@ -1,7 +1,7 @@
 ## Balanced Brackets
 
 ### Description
-This function checks whether a string containing various types of brackets (parentheses (), square brackets [], and curly braces {}) is balanced. A string is considered balanced if every opening bracket has a corresponding closing bracket of the same type, and the brackets are properly nested
+This function checks whether a string containing various types of brackets is balanced. A string is considered balanced if every opening bracket has a corresponding closing bracket of the same type, and the brackets are properly nested
 
 ### Function
 ```
